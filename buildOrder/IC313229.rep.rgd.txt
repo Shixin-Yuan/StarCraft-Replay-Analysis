@@ -1,0 +1,26 @@
+Terran Command Center
+Terran Supply Depot
+Terran Barracks
+Terran Marine
+Terran Supply Depot
+Terran Factory
+Terran Marine
+Terran Marine
+Terran Machine Shop
+Terran Supply Depot
+Terran Starport
+Terran Siege Tank Tank Mode
+Terran Supply Depot
+Terran Control Tower
+Terran Siege Tank Tank Mode
+Terran Academy
+Terran Wraith
+Terran Siege Tank Tank Mode
+Terran Supply Depot
+Terran Wraith
+Terran Comsat Station
+Terran Engineering Bay
+Terran Siege Tank Tank Mode
+Terran Command Center
+Terran Wraith
+Spell Scanner Sweep

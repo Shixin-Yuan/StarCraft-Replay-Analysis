@@ -1,0 +1,32 @@
+Terran Command Center
+Terran Supply Depot
+Terran Barracks
+Terran Marine
+Terran Supply Depot
+Terran Factory
+Terran Marine
+Terran Marine
+Terran Supply Depot
+Terran Marine
+Terran Machine Shop
+Terran Vulture
+Terran Starport
+Terran Vulture
+Terran Supply Depot
+Terran Vulture
+Terran Wraith
+Terran Machine Shop
+Terran Vulture
+Terran Factory
+Terran Control Tower
+Terran Machine Shop
+Terran Armory
+Terran Academy
+Terran Command Center
+Terran Engineering Bay
+Terran Goliath
+Terran Goliath
+Terran Comsat Station
+Terran Supply Depot
+Terran Goliath
+Terran Goliath

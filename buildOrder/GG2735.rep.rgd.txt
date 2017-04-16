@@ -1,0 +1,29 @@
+Terran Command Center
+Terran Supply Depot
+Terran Barracks
+Terran Marine
+Terran Supply Depot
+Terran Factory
+Terran Marine
+Terran Factory
+Terran Machine Shop
+Terran Supply Depot
+Terran Siege Tank Tank Mode
+Terran Vulture
+Terran Engineering Bay
+Terran Vulture
+Terran Armory
+Terran Supply Depot
+Terran Bunker
+Terran Vulture Spider Mine
+Terran Missile Turret
+Terran Missile Turret
+Terran Missile Turret
+Terran Goliath
+Terran Goliath
+Terran Vulture Spider Mine
+Terran Goliath
+Terran Goliath
+Terran Barracks
+Terran Machine Shop
+Terran Vulture
